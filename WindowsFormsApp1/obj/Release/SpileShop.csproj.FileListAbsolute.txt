@@ -1,0 +1,14 @@
+C:\Users\Xpd\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\MySql.Data.dll
+C:\Users\Xpd\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\MySql.Data.xml
+C:\Users\Xpd\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\SpileShop.csprojResolveAssemblyReference.cache
+C:\Users\Xpd\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Login.resources
+C:\Users\Xpd\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form2.resources
+C:\Users\Xpd\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Xpd\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Users.resources
+C:\Users\Xpd\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\SpileShop.csproj.GenerateResource.Cache
+C:\Users\Xpd\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\SpileShop.csproj.CoreCompileInputs.cache
+C:\Users\Xpd\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\SpileShop.exe.config
+C:\Users\Xpd\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\SpileShop.exe
+C:\Users\Xpd\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\SpileShop.pdb
+C:\Users\Xpd\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\SpileShop.exe
+C:\Users\Xpd\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\SpileShop.pdb
